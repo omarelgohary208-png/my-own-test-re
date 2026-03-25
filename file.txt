@@ -1,0 +1,4 @@
+a6a3aea yoo
+2b9c63d Feat/my ultimate new feature (that's untimate)
+6295881 Feat/test feat (#1): 1st feature added to project
+19e0979 initial commit
